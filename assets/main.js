@@ -31,6 +31,12 @@ const app = {
             image: './assets/image/anh6.jpg'
         },
         {
+            name: 'Có hẹn với thanh xuân',
+            single: 'MONSTAR',
+            path: './assets/music/cohenvoithanhxuan.mp3',
+            image: './assets/image/anh7.jpg'
+        },
+        {
             id: 1,
             name: 'Răng khôn',
             single: 'Phí Phương Anh, RIN9',
