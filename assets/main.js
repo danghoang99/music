@@ -25,6 +25,12 @@ const app = {
             image: './assets/image/anh1.jpg'
         },
         {
+            name: '3107 3',
+            single: 'W/n, Duongg, Nâu, V.A',
+            path: './assets/music/31073.mp3',
+            image: './assets/image/anh6.jpg'
+        },
+        {
             id: 1,
             name: 'Răng khôn',
             single: 'Phí Phương Anh, RIN9',
